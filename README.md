@@ -22,3 +22,7 @@ I'm building a Cards app (like Trello) with the main motivation of trying the fo
 
 #### Try it on heroku
 http://board-board.herokuapp.com/
+
+
+#### Screenshot
+![Main](https://github.com/ArtKing777/react-board/blob/master/screenshot/board.PNG)
