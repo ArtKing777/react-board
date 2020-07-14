@@ -1,0 +1,1 @@
+explanation about react board
